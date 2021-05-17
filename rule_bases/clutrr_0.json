@@ -2,8 +2,6 @@
     "child,child": "grand",
     "child,SO": "in-law",
     "child,sibling": "child",
-    "child,inv-un": "sibling",
-    "child,inv-grand": "inv-child",
     "inv-child,child": "sibling",
     "inv-child,inv-child": "inv-grand",
     "inv-child,sibling": "inv-un",
